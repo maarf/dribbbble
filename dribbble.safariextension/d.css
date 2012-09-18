@@ -14,85 +14,46 @@ div.edit-form {
 	width: 630px !important;
 }
 
-#main ol.dribbbles li {
-	position: relative;
-	width: 422px !important;
-	margin: 0 20px 30px 0 !important;
-	}
+#main ol.dribbbles li.group {
+	width: 420px !important;
+}
 
-#main ol.dribbbles li.third {
+#main ol.dribbbles li.end-of-row {
 	margin: 0 20px 30px 0 !important;
 }
 
 #main ol.dribbbles li:nth-child(even) {
 	margin-right: 0 !important;
-}	
-
-#main ol.dribbbles li h2 {
-	margin: -5px 0 0 1px !important;
-	}
-
-#main ol.dribbbles li div.dribbble {
-	background: url(http://dribbble.com/images/dribbble-shadow-lg.png) no-repeat bottom right !important;
-	height: 347px !important;
-	}
+}
 
 #main ol.dribbbles li div.dribbble div.dribbble-shot {
-	background: #fff !important;
-	border: 1px solid #ccc !important;
-	height: 320px !important;
-	}
-	
-#main ol.dribbbles li div.dribbble a.dribbble-over {
-	background: rgba(255,255,255,0.9) !important;
-	text-align: left !important;
-	width: 382px !important;
-	height: auto !important;
-	top: auto !important;
-	bottom: 45px !important;
-	}
-	
-#main ol.dribbbles li div.dribbble a.dribbble-link {
-	width: 400px !important;
-	height: 300px !important;
-	display: block !important;
-	vertical-align: middle !important;
-	display: table-cell !important;
+	background: url(http://dribbble.com/images/dribbble-checkerbg-lg.gif) no-repeat 10px 10px !important;
 }
-	
-#main ol.dribbbles li div.dribbble a.dribbble-over em {
-	left: auto !important;
-	right: 10px !important;
-	bottom: 14px !important;
-}
-	
+
 #main ol.dribbbles li div.dribbble-img {
-	width: 400px !important;
-	height: 300px !important;
-	background: url(http://dribbble.com/images/dribbble-checkerbg-lg.gif) no-repeat 0% 0% !important;
 	display: table-cell !important;
+	height: 300px !important;
 	text-align: center !important;
 	vertical-align: middle !important;
-	}
-	
+	width: 400px !important;
+}
+
+#main ol.dribbbles li div.dribbble a.dribbble-over {
+	bottom: 31px !important;
+	height: auto !important;
+	text-align: left !important;
+	top: auto !important;
+	width: 380px !important;
+}
+
+#main ol.dribbbles li div.dribbble a.dribbble-over em {
+	margin-top: 10px !important;
+	position: static !important;
+}
+
 #main ol.dribbbles li div.dribbble-img img {
 	max-width: 100% !important;
 }
-	
-ol.dribbbles li div.dribbble div.extras {	
-	bottom: 23px !important; 
-	}
-
-#main ol.dribbbles li ul.tools {
-	float: right !important;
-	}
-	
-#main ul.tools li {
-	float: left !important;
-	width: auto !important;
-	margin: 0 0 0 12px !important;
-	display: block !important;
-	}
 	
 #main div.col-5, #main div.col-5-last {
 	width: 412px !important;
