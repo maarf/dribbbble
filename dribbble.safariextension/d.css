@@ -75,6 +75,10 @@ div.edit-form {
 	vertical-align: middle !important;
 	}
 	
+#main ol.dribbbles li div.dribbble-img img {
+	max-width: 100% !important;
+}
+	
 ol.dribbbles li div.dribbble div.extras {	
 	bottom: 23px !important; 
 	}
