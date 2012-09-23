@@ -3,7 +3,7 @@ dribbbble
 
 Dribbb(b)le – A Safari Extension
 
-Originaly developed by [Eren Emre Kanal](http://erenemre.com/679).
+Originally developed by [Eren Emre Kanal](http://erenemre.com/679).
 
 ## Instalation
 
