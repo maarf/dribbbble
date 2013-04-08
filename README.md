@@ -7,4 +7,4 @@ Originally developed by [Eren Emre Kanal](http://erenemre.com/679).
 
 ## Instalation
 
-1. [Download the extension](https://raw.github.com/maarf/dribbbble/master/dribbbble-1.5.3.safariextz)
+1. [Download the extension](https://github.com/maarf/dribbbble/raw/master/dribbble-1.5.3.safariextz)
