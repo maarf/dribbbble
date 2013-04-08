@@ -33,9 +33,14 @@ div.edit-form {
 #main ol.dribbbles li div.dribbble-img {
 	display: table-cell !important;
 	height: 300px !important;
+  padding: 0 !important;
 	text-align: center !important;
 	vertical-align: middle !important;
 	width: 400px !important;
+}
+
+#main ol.dribbbles li div.dribbble-img img {
+	max-height: 300px !important;
 }
 
 #main ol.dribbbles li div.dribbble a.dribbble-over {
