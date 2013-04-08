@@ -39,7 +39,7 @@ div.edit-form {
 	width: 400px !important;
 }
 
-#main ol.dribbbles li div.dribbble-img img {
+#main:not(.full-800) ol.dribbbles li div.dribbble-img img {
 	max-height: 300px !important;
 }
 
